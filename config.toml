@@ -1,0 +1,28 @@
+baseurl = "http://natstonecipher.com"
+title = "Nat Stonecipher"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Web Consultant<!--]--><br />
+                <!--[--><!--]-->'
+  logo = "fa-microchip"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
